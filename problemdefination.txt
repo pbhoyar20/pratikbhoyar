@@ -1,0 +1,10 @@
+problem definition::
+
+the Rockwell automation inc. had their private cloud for IT solutions. 
+But due to growth of company in all sectors, they want a infrastructure as service like Amazon web service.
+so to host the information about the employees in public cloud like google cloid platform 
+or AWS they need a web application which will used by different actors like HR,admin ,employees
+so the web application will include login/logout/register details,
+it will have a Human resource solutions portal form which will contain submit and confirm options.
+  
+

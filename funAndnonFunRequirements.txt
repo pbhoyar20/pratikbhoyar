@@ -1,0 +1,39 @@
+Functional requirements--
+1.ACTOR should be authanticate initially(login page will be displayed to him/her).
+
+2.Employee should be authorised to access the portal.
+
+3.list of developement centers should be dispalyed to EMPLOYEE.
+
+4.option of selection of a(employee's working ) sector will be avvailable to them.
+
+5.(by clicking on portol link) a PORTOL form  should be available to 
+fill the employee's information.
+
+6. option of selection of a portal(either goggle cloud or AWS) 
+will be available to them.
+
+7. persmission should be asked before submitting the form.
+
+8.logout option
+
+9. BY admin login, a list of employeesshould be displayed on screen,
+
+10.admin should add or update or delete the employee.
+---------------------------------------------------
+Non-Functional requirements--
+1.response time- the fetching of data from database should be within 2 seconds.
+
+2.usability- the service should be available to all locations for 24/7.
+
+3.efficiency- the service shopuld be efficient to fetch/upload/add data(information)
+
+4.easy handling-UI should be easy to access for the user
+
+5.security should be their.
+
+6.portablity- user can handle the app for different devices
+
+
+
+
